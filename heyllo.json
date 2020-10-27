@@ -1,7 +1,7 @@
 {
-   "version":"1.4",
+   "version":"1.5",
    "link":"https://lazy.lgbt/update",
    "discord":"Kinue#8888",
    "server":"https://discord.gg/Eb4AZYE",
-   "announcement":"Fixed legacy bugs, optimize code!"
+   "announcement":"Added Google API for og name!"
 }
